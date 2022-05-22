@@ -1,0 +1,17 @@
+export default {
+  primaryGradient: "#0575e6",
+  secondaryGradient: "#00f260",
+  primaryGradientLayout: "#7F7FD5",
+  secondaryGradientLayout: "#86A8E7",
+  thirdlyGradientLayout: "#91EAE4",
+  iconColor: "#FFFFFF",
+  iconBackgroundColor: "#7F7FD5",
+  cardBackgroundColor: "#ccc",
+  primary: "#7F7FD5",
+  secondary: "#86A8E7",
+  red: "#ff6666",
+  trackColorSwitchTrue: "#81b0ff",
+  trackColorSwitchFalse: "#767577",
+  thumbColorSwitchFalse: "#7F7FD5",
+  thumbColorSwitchTrue: "#f4f3f4",
+};
